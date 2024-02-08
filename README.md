@@ -9,4 +9,5 @@ https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 
 Demo Video:
-[screen-capture.webm](https://github.com/nidhipatel28/lazy-loading-observer-api/assets/72340408/072a4d6d-b484-45e1-8c02-1e39f4c2792d)
+
+[screen-capture.webm](https://github.com/nidhipatel28/lazy-loading-observer-api/assets/72340408/ac828f82-71f9-4457-a2ed-d3fe9caa8f4e)
